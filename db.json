@@ -1,0 +1,32 @@
+{
+    "flights":[
+        {
+    "id": 1,
+    "flightId": "IND-101",
+    "AircraftName": "Delta Airlines",
+    "fare": 600.0,
+    "Available":3.0,
+    "status": "Running"
+
+        },
+        {
+            "id": 1,
+            "flightId": "IND-101",
+            "AircraftName": "Delta Airlines",
+            "fare": 600.0,
+            "Available":3.0,
+            "status": "Running"
+        
+                },
+                {
+                    "id": 1,
+                    "flightId": "IND-101",
+                    "AircraftName": "Delta Airlines",
+                    "fare": 600.0,
+                    "Available":3.0,
+                    "status": "Running"
+                
+                        }
+    ]
+    
+}
